@@ -1,2 +1,2 @@
-# Libft
-42-Cursus Libft Project / subject.pdf and project guidelines included
+
+SUCCESS 123/100
